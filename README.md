@@ -49,15 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar-patel28&show_icons=true&theme=tokyonight" alt="tushar-patel28 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-patel28&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
