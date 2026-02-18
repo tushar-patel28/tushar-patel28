@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar Patel</h1>
 <h3 align="center">Master's Student in Software Engineering @ Northeastern University | AI/ML • Full-Stack • Cloud & DevOps</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tushar-patel28&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-patel28" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
