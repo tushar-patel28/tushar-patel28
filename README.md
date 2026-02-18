@@ -14,7 +14,7 @@
 - 🏗️ Built and deployed production-grade systems using **AWS**, **Terraform**, **Docker**, and **CI/CD pipelines**
 - 🤖 Experienced in **LLM fine-tuning**, **Diffusion Models**, and **RAG-based systems**
 - 💼 Interned at **Praxware Technologies** and **Sparks To Ideas** building real-world full-stack applications
-- 📫 Reach me at: **tusharptl1525@gmail.com**
+- 📫 Reach me at: **patel.tusharv@northeastern.edu**
 
 ---
 
